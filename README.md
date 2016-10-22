@@ -1,11 +1,5 @@
-#THIS CODE ONLY EXISTS FOR REFERENCE, DO NOT ATTEMPT TO RUN THIS
+#This code was created by SexualRhinoceros and lightly modified by MattBSG
 
-#LOOK AT WIKI FOR DOCUMENTATION
 
-## General Links
 
-[Rhino's Twitter](https://twitter.com/SexualRhino_)
-
-[Rhino's Twitch](www.twitch.tv/s3xualrhinoceros)
-
-[Donate to the "Save a Sexual Rhinoceros" fund!](https://www.patreon.com/user?u=2693506)
+I don't push code to this repository! If you looking for my iteration of ModTools please see [this repository](https://github.com/MattBSG/ModTools)!

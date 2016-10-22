@@ -1,8 +1,0 @@
-[Credentials]
-Token = TOKEN HERE
-
-[Permissions]
-OwnerID = 77511942717046784
-
-[Chat]
-CommandPrefix = !!
